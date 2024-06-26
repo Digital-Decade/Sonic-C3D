@@ -1,1 +1,1 @@
-"# Sonic-C3D" 
+# Sonic-C3D
